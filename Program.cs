@@ -12,7 +12,8 @@ namespace SnakeAndLadderProblem
             //UC3_CheckingPosition.CheckingPosition();
             //UC4_RepeatTillWin.RepeatTillWin();
             //UC5_RepeatTillWinningPosition.RepeatTillWinningPosition();
-            UC6_CountRollDice.CountRollDice();
+            //UC6_CountRollDice.CountRollDice();
+            UC7_PlayWithTwoPlayers.PlayGameWithTwoPlayers();
 
         }
     }
